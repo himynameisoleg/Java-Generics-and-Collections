@@ -1,0 +1,31 @@
+<html>
+<p>In this task you will create a <code>Counter</code>
+object that keeps track of the count of objects in
+an array of objects.</p>
+<h3>Counter</h3>
+<ul>
+    <li>Has a private variable <code>counts</code> of
+    type <code>HashMap</code> with a generic key and
+    an <code>Integer</code> value. </li>
+    <li>The constructor of <code>Counter</code> should
+    take in an array of generic objects. Then, it
+    should loop through the objects and:
+    <ul>
+        <li>Check if the object exists in the <code>HashMap</code></li>
+        <li>If it exists, increase its value by one.</li>
+        <li>If it doesn't exist, then insert the key with a value of 1</li>
+    </ul></li>
+    <li><code>mostFrequent</code> should return the key that
+    corresponds to the element with the highest count (or value). That is, the
+    most frequent element.</li>
+    <li><code>getCount</code> takes in a key and returns its value. It is
+    what is called a <strong>wrapper</strong> for a method that
+    already exists in a <code>HashMap</code>. By providing
+    our own method we restrict access to the <code>HashMap</code> by other
+    developers.</li>
+</ul>
+
+<h3>Task</h3>
+You need to figure out how to create a <code>Counter</code> for the words
+of the <code>text</code> variable so that everything compiles.
+</html>
