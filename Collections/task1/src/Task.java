@@ -16,14 +16,23 @@ public class Task {
         System.out.println("Cards add:"+addCards(hand));
 
 
-        for(Card /* TODO
-Compete a for loop that prints every card
-in the deck d */
+        for(Card c : d) {
+            System.out.println(c.toString());
+        }
 
     }
 
     public static int addCards(ArrayList<Card> hand){
- /* TODO 
-This should compute the sum of values of the cards in an ArrayList of cards.*/
+        int sum = 0;
+
+        for (Card c : hand) {
+            if (c.getValue() == "King") sum += 13;
+            else if (c.getValue() == "Queen") sum += 12;
+            else if (c.getValue() == "Jack") sum += 11;
+            else if (c.getValue() == "Ace") sum += 1;
+            else sum += (int) c.getValue();
+        }
+
+        return sum;
     }
 }

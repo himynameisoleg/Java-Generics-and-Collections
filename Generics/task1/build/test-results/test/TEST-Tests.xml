@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-03-02T01:53:29" hostname="macbeezy.hsd1.il.comcast.net" time="0.008">
+  <properties/>
+  <testcase name="testBagSpecifics" classname="Tests" time="0.007"/>
+  <testcase name="testBingoChip" classname="Tests" time="0.001"/>
+  <testcase name="testBagBasics" classname="Tests" time="0.0"/>
+  <system-out><![CDATA[Adding 0
+Adding 1
+Adding 2
+[hello, hello, world, world, hello, hello, hello]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java_Generics_and_Collections.iml" filepath="$PROJECT_DIR$/.idea/modules/Java_Generics_and_Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Collections/task1/Java_Generics_and_Collections.Collections-task1.iml" filepath="$PROJECT_DIR$/.idea/modules/Collections/task1/Java_Generics_and_Collections.Collections-task1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Collections/task1/Java_Generics_and_Collections.Collections-task1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Collections/task1/Java_Generics_and_Collections.Collections-task1.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Collections/task1/Java_Generics_and_Collections.Collections-task1.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Collections/task1/Java_Generics_and_Collections.Collections-task1.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Collections/task2/Java_Generics_and_Collections.Collections-task2.iml" filepath="$PROJECT_DIR$/.idea/modules/Collections/task2/Java_Generics_and_Collections.Collections-task2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Collections/task2/Java_Generics_and_Collections.Collections-task2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Collections/task2/Java_Generics_and_Collections.Collections-task2.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Collections/task2/Java_Generics_and_Collections.Collections-task2.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Collections/task2/Java_Generics_and_Collections.Collections-task2.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Generics/task1/Java_Generics_and_Collections.Generics-task1.iml" filepath="$PROJECT_DIR$/.idea/modules/Generics/task1/Java_Generics_and_Collections.Generics-task1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Generics/task1/Java_Generics_and_Collections.Generics-task1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Generics/task1/Java_Generics_and_Collections.Generics-task1.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Generics/task1/Java_Generics_and_Collections.Generics-task1.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Generics/task1/Java_Generics_and_Collections.Generics-task1.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Java_Generics_and_Collections.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Java_Generics_and_Collections.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Java_Generics_and_Collections.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Java_Generics_and_Collections.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Java_Generics_and_Collections.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Java_Generics_and_Collections.util.test.iml" />
+    </modules>
+  </component>
+</project>
